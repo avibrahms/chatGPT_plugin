@@ -2,8 +2,8 @@
     "schema_version": "v1",
     "name_for_human": "Avi's",
     "name_for_model": "todo",
-    "description_for_human": "Avi's plugin",
-    "description_for_model": "Plugin for managing a TODO for now",
+    "description_for_human": "Avi's plugin. Plugin for managing a TODO for now",
+    "description_for_model": "Avi's plugin. Plugin for managing a TODO for now",
     "auth": {
       "type": "none"
     },
