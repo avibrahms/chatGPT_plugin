@@ -1,18 +1,17 @@
 {
-    "schema_version": "v1",
-    "name_for_human": "Avi's",
-    "name_for_model": "todo",
-    "description_for_human": "Avi's plugin. Plugin for managing a TODO for now",
-    "description_for_model": "Avi's plugin. Plugin for managing a TODO for now",
-    "auth": {
+  "schema_version": "v1",
+  "name_for_human": "Sport Stats",
+  "name_for_model": "sportStats",
+  "description_for_human": "Get current and historical stats for sport players and games.",
+  "description_for_model": "Get current and historical stats for sport players and games. Always display results using markdown tables.",
+  "auth": {
       "type": "none"
-    },
-    "api": {
+  },
+  "api": {
       "type": "openapi",
-      "url": "http://localhost:5003/openapi.yaml"
-    },
-    "logo_url": "http://localhost:5003/logo.png",
-    "contact_email": "Avi@gmail.com",
-    "legal_info_url": "http://eultradeep.eu"
-  }
-  
+      "url": "localhost:5003/openapi.yaml"
+  },
+  "logo_url": "localhost:5003/logo.png",
+  "contact_email": "support@example.com",
+  "legal_info_url": "https://example.com/legal"
+}
